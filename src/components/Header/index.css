@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+img {
+  height: 70px;
+  width: 100px;
+}
+button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}

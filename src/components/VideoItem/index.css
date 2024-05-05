@@ -1,0 +1,17 @@
+.video-link-item {
+  width: 30%;
+  height: 450px;
+  text-decoration: none;
+}
+
+.selected {
+  color: #2563eb;
+}
+
+.not-selected {
+  color: #64748b;
+}
+
+.video-image {
+  width: 100%;
+}
